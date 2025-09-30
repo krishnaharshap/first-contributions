@@ -1,3 +1,6 @@
+# Changes to CODEOWNERS.md require review by @krishnaharshap
+*.md  @krishnaharshap
+
 # Changes to JavaScript files require review by @js-owner
 *.js    @js-owner
 
